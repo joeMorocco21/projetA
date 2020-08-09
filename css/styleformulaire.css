@@ -1,0 +1,46 @@
+.formulaire
+{
+	background-image: url("../img/imgformulaire.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.formulaire-contact
+{
+
+	margin-top: 25%;
+	background-color: #ffffff;
+	opacity: 70%;
+}
+.formulaire-contact input{
+	border: 2px solid #000000;
+	width: 80%;
+	margin-left: 5%;
+}
+
+h1
+{
+	font-size: 25px;
+	font-weight: bold;
+	padding-top: 5%;
+	margin-left: 5%;
+}
+.btn{
+	width: 80%;
+	margin-left: 5%;
+	opacity: 100%;
+	margin-bottom: 5%;
+}
+label
+{
+	font-size: 15px;
+	font-weight: bold;
+	margin-left: 5%;
+}
+
+input
+{
+	width: 30vw;
+	font-weight: bold;
+}
